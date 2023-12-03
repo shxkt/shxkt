@@ -4,8 +4,3 @@
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@shxkt.aep)
 
 ![Shy GitHub stats](https://github-readme-stats.vercel.app/api?username=shxkt&show_icons=true&theme=radical)
-
-## Tecnologias que estudo/uso no dia-dia
-<div style="display: inline_block"><br/>
-    <img align="center" alt="Python" scr="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-</div>
