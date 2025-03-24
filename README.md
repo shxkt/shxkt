@@ -1,1 +1,3 @@
 ## Olá! Eu sou o shxkt.
+
+27% LOADING INFO...
